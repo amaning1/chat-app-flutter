@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55406051645",
+    "project_id": "fir-1-54c21",
+    "storage_bucket": "fir-1-54c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55406051645:android:438b5439736c15917c0554",
+        "android_client_info": {
+          "package_name": "co.KM.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55406051645-jb9lghsrd2bghgnqboka74jilr7t6k48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_3-kvG8R6QRk0_39czjB7EHU4QV__9nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55406051645-jb9lghsrd2bghgnqboka74jilr7t6k48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
